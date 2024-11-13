@@ -14,8 +14,8 @@
 ###############################################################################
 
 # Requered variables
-RESOURCE_GROUP="MGUYARD-SG-HELIOS"
-VMSS_NAME="WebSRV"
+RESOURCE_GROUP="<YOUR_RG_NAME>"
+VMSS_NAME="<YOUR_VMSS_NAME>"
 
 # Get Suscription ID
 SUBSCRIPTION_ID=$(az account show --query id -o tsv)
