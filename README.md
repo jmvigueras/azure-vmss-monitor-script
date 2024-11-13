@@ -1,6 +1,6 @@
 # Azure Virtual Machine Scale Set (VMSS) monitor script
 
-Basth script to monitor VMSS instances
+Bash script to monitor VMSS instances
 
 ## Use
 Update script with your Resource Group name and VMSS name.
